@@ -1,0 +1,10 @@
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.csproj.AssemblyReference.cache
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.AssemblyInfoInputs.cache
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.AssemblyInfo.cs
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.csproj.CoreCompileInputs.cache
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\bin\Debug\net6.0\DiscordWebhook.deps.json
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\bin\Debug\net6.0\DiscordWebhook.dll
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\DiscordWebhook.dll
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\refint\DiscordWebhook.dll
+E:\Projekty\C#\AmongUs.SendCode\DiscordWebhook\Project1\obj\Debug\net6.0\ref\DiscordWebhook.dll
